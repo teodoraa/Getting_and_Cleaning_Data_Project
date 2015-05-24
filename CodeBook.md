@@ -1,4 +1,4 @@
-The raw data for this project is was obtained from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.  The raw data are collected from the accelerometers from the Samsung Galaxy S smartphone.A full description of the process performed and the measurements taken for each activity and subject are available from the website above.  
+The raw data for this project is was obtained from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. The raw data are collected from the accelerometers from the Samsung Galaxy S smartphone. A full description of the process performed and the measurements taken for each activity and subject are available from the website above.  
 
 The variables in the tidy_data dataset are the means of a select subset of variables (with the same names) from the raw dataset above by activity and subject. The subjects consist of a group of 30 volunteers within an age bracket of 19-48 years, each of whom performed six activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING. 
 
